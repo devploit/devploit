@@ -13,7 +13,7 @@ Also, you can follow me on:
 [![Twitter: devploit](https://img.shields.io/twitter/follow/devploit?style=social)](https://twitter.com/devploit)
 [![Linkedin: Daniel Púa](https://img.shields.io/badge/-daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-pua/)](https://www.linkedin.com/in/daniel-pua/)
 [![GitHub devploit](https://img.shields.io/github/followers/devploit?label=follow&style=social)](https://github.com/devploit)
-[![HackTheBox: devploit](https://img.shields.io/badge/-daniel-green?style=flat-square&logo=HackTheBox&logoColor=white&link=https://www.linkedin.com/in/daniel-pua/)](https://app.hackthebox.eu/profile/1912)
+[![HackTheBox: devploit](https://img.shields.io/badge/-devploit-green?style=flat-square&logo=HackTheBox&logoColor=white&link=https://www.linkedin.com/in/daniel-pua/)](https://app.hackthebox.eu/profile/1912)
 
 ## Github stats:
 
