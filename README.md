@@ -15,7 +15,7 @@ Also, you can follow me on:
 [![GitHub devploit](https://img.shields.io/github/followers/devploit?label=follow&style=social)](https://github.com/devploit)
 [![HackTheBox: devploit](https://img.shields.io/badge/-devploit-green?style=flat-square&logo=HackTheBox&logoColor=white&link=https://www.linkedin.com/in/daniel-pua/)](https://app.hackthebox.eu/profile/1912)
 
-## Github stats:
+## GitHub stats:
 
 <p align="center">
 <a href="https://github.com/devploit/devploit">
