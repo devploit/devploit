@@ -1,6 +1,6 @@
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm Daniel Púa (a.k.a. devploit) and I'm an infosec lover from Cádiz (Spain). I'm living on Malaga where I work and do my stuff. I also participate in CTFs as a hobby. My team is [ripp3rs](https://github.com/ripp3rs).
+Hi, I'm Daniel Púa (a.k.a. devploit) and I'm an infosec lover from Cádiz (Spain). I'm living on Malaga where I work and do my stuff. I also participate in CTFs as a hobby. My teams are [ripp3rs](https://ctftime.org/team/50984) & [R3Vengers](https://ctftime.org/team/175470).
 
 <img align="right" alt="GIF" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" width="350" height="230" />
 
