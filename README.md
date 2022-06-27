@@ -1,4 +1,4 @@
-## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there! 🦊
 
 Hi, I'm Daniel Púa (a.k.a. devploit) and I'm an infosec lover from Cádiz (Spain). I'm living on Malaga where I work and do my stuff. I also participate in CTFs as a hobby. My teams are [ripp3rs](https://ctftime.org/team/50984) & [R3Vengers](https://ctftime.org/team/175470).
 
@@ -13,7 +13,8 @@ Also, you can follow me on:
 [![Twitter: devploit](https://img.shields.io/twitter/follow/devploit?style=social)](https://twitter.com/devploit)
 [![Linkedin: Daniel Púa](https://img.shields.io/badge/-daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-pua/)](https://www.linkedin.com/in/daniel-pua/)
 [![GitHub devploit](https://img.shields.io/github/followers/devploit?label=follow&style=social)](https://github.com/devploit)
-[![HackTheBox: devploit](https://img.shields.io/badge/-devploit-green?style=flat-square&logo=HackTheBox&logoColor=white&link=https://www.linkedin.com/in/daniel-pua/)](https://app.hackthebox.eu/profile/1912)
+[![HackTheBox: devploit](https://img.shields.io/badge/-devploit-green?style=flat-square&logo=HackTheBox&logoColor=white&link=https://app.hackthebox.eu/profile/1912)](https://app.hackthebox.eu/profile/1912)
+[![Telegram: devploit](https://img.shields.io/badge/-devploit-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/devploit)](https://t.me/devploit)
 
 ## GitHub stats:
 
