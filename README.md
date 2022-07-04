@@ -10,11 +10,13 @@ In addition to working and participating in CTFs I also (try to) maintain a repo
 
 Also, you can follow me on:
 
-[![Twitter: devploit](https://img.shields.io/twitter/follow/devploit?style=social)](https://twitter.com/devploit)
-[![Linkedin: Daniel Púa](https://img.shields.io/badge/-daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-pua/)](https://www.linkedin.com/in/daniel-pua/)
-[![GitHub devploit](https://img.shields.io/github/followers/devploit?label=follow&style=social)](https://github.com/devploit)
-[![HackTheBox: devploit](https://img.shields.io/badge/-devploit-green?style=flat-square&logo=HackTheBox&logoColor=white&link=https://app.hackthebox.eu/profile/1912)](https://app.hackthebox.eu/profile/1912)
-[![Telegram: devploit](https://img.shields.io/badge/-devploit-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/devploit)](https://t.me/devploit)
+[![Twitter: devploit](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/devploit/)](https://twitter.com/devploit/)
+[![GitHub: devploit](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/devploit)](https://github.com/devploit)
+[![Linkedin: Daniel Púa](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-pua/)](https://www.linkedin.com/in/daniel-pua/)
+[![HackTheBox: devploit](https://img.shields.io/badge/-HackTheBox-green?style=flat-square&logo=HackTheBox&logoColor=white&link=https://app.hackthebox.eu/profile/1912)](https://app.hackthebox.eu/profile/1912)
+[![Telegram: devploit](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/devploit)](https://t.me/devploit)
+[![HackerOne: devploit](https://img.shields.io/badge/-HackerOne-black?style=flat-square&logo=HackerOne&logoColor=white&link=https://hackerone.com/devploit)](https://hackerone.com/devploit)
+[![Intigriti: devploit](https://img.shields.io/badge/-Intigriti-darkblue?style=flat-square&logo=Intigriti&logoColor=white&link=https://app.intigriti.com/company/profile/devploit)](https://app.intigriti.com/company/profile/devploit)
 
 ## GitHub stats:
 
