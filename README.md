@@ -10,8 +10,9 @@ In addition to working and participating in CTFs I also (try to) maintain a repo
 
 Also, you can follow me on:
 
-[![Twitter: devploit](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/devploit/)](https://twitter.com/devploit/)
+[![Blog: devploit](https://img.shields.io/badge/-Blog-red?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.0xdev.eu/)](https://blog.0xdev.eu/)
 [![GitHub: devploit](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/devploit)](https://github.com/devploit)
+[![Twitter: devploit](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/devploit/)](https://twitter.com/devploit/)
 [![Linkedin: Daniel Púa](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-pua/)](https://www.linkedin.com/in/daniel-pua/)
 [![HackTheBox: devploit](https://img.shields.io/badge/-HackTheBox-green?style=flat-square&logo=HackTheBox&logoColor=white&link=https://app.hackthebox.eu/profile/1912)](https://app.hackthebox.eu/profile/1912)
 [![Telegram: devploit](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/devploit)](https://t.me/devploit)
