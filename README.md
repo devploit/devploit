@@ -21,11 +21,11 @@ Also, you can follow me on:
 ## GitHub stats:
 
 <p align="center">
-<a href="https://github.com/devploit/devploit">
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=devploit&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true&langs_count=3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devploit&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true&langs_count=3" />
 </a>
 
-<a href="https://github.com/devploit/devploit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devploit&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true" />
+<a href="[https://github.com/devploit/devploit](https://github-readme-stats.vercel.app/api?username=devploit&show_icons=true&theme=tokyonight&include_all_commits=true)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devploit&show_icons=true&theme=tokyonight&include_all_commits=true" />
 </a>
 </p>
