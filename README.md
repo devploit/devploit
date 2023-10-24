@@ -10,15 +10,20 @@ In addition to working and participating in CTFs I also (try to) maintain a repo
 
 Also, you can follow me on:
 
-[![Blog: devploit](https://img.shields.io/badge/-Blog-red?style=flat-square&logo=Blogger&logoColor=white&link=https://blog.0xdev.eu/)](https://blog.0xdev.eu/)
-[![GitHub: devploit](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/devploit)](https://github.com/devploit)
-[![Twitter: devploit](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/devploit/)](https://twitter.com/devploit/)
-[![Linkedin: Daniel Púa](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-pua/)](https://www.linkedin.com/in/daniel-pua/)
-[![HackTheBox: devploit](https://img.shields.io/badge/-HackTheBox-green?style=flat-square&logo=HackTheBox&logoColor=white&link=https://app.hackthebox.eu/profile/1912)](https://app.hackthebox.eu/profile/1912)
-[![HackerOne: devploit](https://img.shields.io/badge/-HackerOne-black?style=flat-square&logo=HackerOne&logoColor=white&link=https://hackerone.com/devploit)](https://hackerone.com/devploit)
-[![Intigriti: devploit](https://img.shields.io/badge/-Intigriti-darkblue?style=flat-square&logo=Intigriti&logoColor=white&link=https://app.intigriti.com/company/profile/devploit)](https://app.intigriti.com/company/profile/devploit)
+[![Blog: devploit](https://img.shields.io/badge/-Blog-%23D94F00?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.0xdev.eu/)
+[![GitHub: devploit](https://img.shields.io/badge/-GitHub-%231A1A1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devploit)
+[![Twitter: devploit](https://img.shields.io/badge/-Twitter-%2300BAFF?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devploit/)
+[![Linkedin: Daniel Púa](https://img.shields.io/badge/-LinkedIn-%23394EFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-pua/)
+[![HackTheBox: devploit](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.eu/profile/1912)
+[![HackerOne: devploit](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/devploit)
+[![Intigriti: devploit](https://img.shields.io/badge/-Intigriti-%23161A36?style=for-the-badge&logo=intigriti&logoColor=white)](https://app.intigriti.com/company/profile/devploit)
+[![CTFTime: devploit](https://img.shields.io/badge/-CTFTime-%23C01818?style=for-the-badge&logo=ctftime&logoColor=white)](https://ctftime.org/user/25930)
 
 ## GitHub stats:
+
+<a>
+  <img src="https://komarev.com/ghpvc/?username=devploit&style=for-the-badge&color=green" alt="View counter">
+</a>
 
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api/top-langs?username=devploit&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&include_all_commits=true&langs_count=3">
