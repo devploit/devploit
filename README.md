@@ -19,7 +19,7 @@ Also, you can follow me on:
 [![Intigriti: devploit](https://img.shields.io/badge/-Intigriti-%23161A36?style=for-the-badge&logo=intigriti&logoColor=white)](https://app.intigriti.com/company/profile/devploit)
 [![CTFTime: devploit](https://img.shields.io/badge/-CTFTime-%23C01818?style=for-the-badge&logo=ctftime&logoColor=white)](https://ctftime.org/user/25930)
 
-## GitHub stats:
+## 📊 GitHub Stats:
 
 <a>
   <img src="https://komarev.com/ghpvc/?username=devploit&style=for-the-badge&color=green" alt="View counter">
@@ -34,3 +34,8 @@ Also, you can follow me on:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devploit&show_icons=true&theme=tokyonight&include_all_commits=true" />
 </a>
 </p>
+
+## 🏆 GitHub Trophies:
+
+![](https://github-profile-trophy.vercel.app/?username=devploit&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
