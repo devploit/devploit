@@ -4,7 +4,7 @@ Hi, I'm Daniel Púa (a.k.a. devploit) and I'm an infosec lover from Cádiz (Spai
 
 <img align="right" alt="GIF" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" width="350" height="230" />
 
-I'm currently working at [Freepik Company](https://www.freepikcompany.com/) as Security Tech Lead.
+I'm currently working at [Freepik Company](https://www.freepikcompany.com/) as Head of Security.
 
 In addition to working and participating in CTFs I also (try to) maintain a repository of payloads that may be useful for other security researchers. You can visit it at: [pwny.cc](https://www.pwny.cc).
 
