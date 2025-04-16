@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=devploit&style=for-the-badge&color=green" alt="View counter">
 </a>
 
-Hi, I'm Daniel Púa (a.k.a. devploit), an infosec enthusiast from Cádiz (Spain), now based in Málaga. I focus on real-world security challenges and currently play CTFs with [SPFE](https://ctftime.org/team/227086). I was previously part of [ripp3rs](https://ctftime.org/team/50984) and represented Spain in the European Cybersecurity Challenge (ECSC) as a member of the national team.
+Hi, I'm Daniel Púa (a.k.a. devploit), an infosec enthusiast from Cádiz (Spain), now based in Málaga. I focus on real-world security challenges and currently play CTFs with [SFPE](https://ctftime.org/team/227086). I was previously part of [ripp3rs](https://ctftime.org/team/50984) and represented Spain in the European Cybersecurity Challenge (ECSC) as a member of the national team.
 
 <img align="right" alt="GIF" src="https://s6.gifyu.com/images/bpNKb.gif" width="350" height="200" />
 
