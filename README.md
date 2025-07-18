@@ -18,7 +18,7 @@ In my spare time, I build open source security tools—always with the same mind
 
 
 [![GitHub: devploit](https://img.shields.io/badge/-GitHub-%231A1A1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devploit)
-[![Blog: devploit](https://img.shields.io/badge/-Blog-%23D94F00?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.0xdev.eu/)
+[![Blog: devploit](https://img.shields.io/badge/-Blog-%23D94F00?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.danielpua.dev/)
 [![Twitter: devploit](https://img.shields.io/badge/-Twitter-%2300BAFF?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devploit/)
 [![Linkedin: Daniel Púa](https://img.shields.io/badge/-LinkedIn-%23394EFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-pua/)
 
